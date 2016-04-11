@@ -1,0 +1,6 @@
+{
+    "name": "rudy-affandi/predis",
+    "require": {
+        "predis/predis": "^1.0"
+    }
+}

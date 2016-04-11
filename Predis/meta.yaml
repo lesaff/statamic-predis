@@ -1,0 +1,6 @@
+name: Predis
+version: 1.0.0
+description: Allows you to use Redis as caching/session storage
+url: https://github.com/lesaff/statamic-predis
+developer: Rudy Affandi
+developer_url: https://github.com/lesaff
